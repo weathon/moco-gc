@@ -1,0 +1,8 @@
+data/
+new/data/
+*.zip
+new/wandb
+new/ftp.ebi.ac.uk/
+new/POS
+new/NEG
+**/*.tar
